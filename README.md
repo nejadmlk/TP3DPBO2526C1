@@ -125,6 +125,10 @@ Alur pada program ini dimulai dengan user yang dapat menginput angka dari 1-4. a
 
 ## C++, JAVA, PYTHON
 
-| Tampilkan Utama | Contoh Input | Tampilkan Data Setelah Input |
+| Tampilkan Utama | Input Laptop | Input PC |
 | :---: | :---: | :---: |
-| <img src="cpp/Dokumentasi/Tampilkan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilkan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilkan Utama.png" width="100%"> |
+| <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilkan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilkan Utama.png" width="100%"> |
+| **Opsi Tampilan Data** | **List data laptop Sebelum Input** | **List data PC Sebelum Input** |
+| <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> |
+| **List data laptop sesudah Input** | **List data PC sesudah Input** | **Tampilan Keluar Program** |
+| <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> |
