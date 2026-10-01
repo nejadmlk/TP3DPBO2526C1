@@ -67,7 +67,7 @@ Saya Nezhad Ahmad Maliki dengan NIM 2503880 mengerjakan Tugas Praktikum 3 pada M
 
 # Desain & Alur Program
 
-<img src="Design Diagram.png" width="100%">
+<img src="Design DIagram.png" width="100%">
 
 ## Karena program ini bertemakan tentang sebuah toko barang elektronik berupa pc dan laptop maka dibutuhkan class yag berhubungan dengan komponen dari komputer itu sendiri
 ### 1. Desain Class `CPU`
@@ -137,18 +137,18 @@ Alur pada program ini dimulai dengan user yang dapat menginput angka dari 1-4. a
 
 | Tampilkan Utama | Input Laptop | Input PC |
 | :---: | :---: | :---: |
-| <img src="python/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="python/Dokumentasi/Input Laptop.png" width="100%"> | <img src="python/Dokumentasi/Input PC.png" width="100%"> |
+| <img src="python/Dokumantasi/Tampilan Utama.png" width="100%"> | <img src="python/Dokumantasi/Input Laptop.png" width="100%"> | <img src="python/Dokumantasi/Input PC.png" width="100%"> |
 | **Opsi Tampilan Data** | **List data laptop Sebelum Input** | **List data PC Sebelum Input** |
-| <img src="python/Dokumentasi/Opsi Tampilan Data.png" width="100%"> | <img src="python/Dokumentasi/List sebelum laptop.png" width="100%"> | <img src="python/Dokumentasi/List sebelum PC.png" width="100%"> |
+| <img src="python/Dokumantasi/Opsi Tampilan Data.png" width="100%"> | <img src="python/Dokumantasi/List sebelum laptop.png" width="100%"> | <img src="python/Dokumantasi/List sebelum PC.png" width="100%"> |
 | **List data laptop sesudah Input** | **List data PC sesudah Input** | **Tampilan Keluar Program** |
-| <img src="python/Dokumentasi/List laptop.png" width="100%"> | <img src="python/Dokumentasi/List PC.png" width="100%"> | <img src="python/Dokumentasi/Tampilan keluar program.png" width="100%"> |
+| <img src="python/Dokumantasi/List laptop.png" width="100%"> | <img src="python/Dokumantasi/List PC.png" width="100%"> | <img src="python/Dokumantasi/Tampilan keluar program.png" width="100%"> |
 
 ## java
 
 | Tampilkan Utama | Input Laptop | Input PC |
 | :---: | :---: | :---: |
-| <img src="java/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="java/Dokumentasi/Input Laptop.png" width="100%"> | <img src="java/Dokumentasi/Input PC.png" width="100%"> |
+| <img src="java/Dokumantasi/Tampilan Utama.png" width="100%"> | <img src="java/Dokumantasi/Input Laptop.png" width="100%"> | <img src="java/Dokumantasi/Input PC.png" width="100%"> |
 | **Opsi Tampilan Data** | **List data laptop Sebelum Input** | **List data PC Sebelum Input** |
-| <img src="java/Dokumentasi/Opsi Tampilan Data.png" width="100%"> | <img src="java/Dokumentasi/List sebelum laptop.png" width="100%"> | <img src="java/Dokumentasi/List sebelum PC.png" width="100%"> |
+| <img src="java/Dokumantasi/Opsi Tampilan Data.png" width="100%"> | <img src="java/Dokumantasi/List sebelum laptop.png" width="100%"> | <img src="java/Dokumantasi/List sebelum PC.png" width="100%"> |
 | **List data laptop sesudah Input** | **List data PC sesudah Input** | **Tampilan Keluar Program** |
-| <img src="java/Dokumentasi/List laptop.png" width="100%"> | <img src="java/Dokumentasi/List PC.png" width="100%"> | <img src="java/Dokumentasi/Tampilan keluar program.png" width="100%"> |
+| <img src="java/Dokumantasi/List laptop.png" width="100%"> | <img src="java/Dokumantasi/List PC.png" width="100%"> | <img src="java/Dokumantasi/Tampilan keluar program.png" width="100%"> |
