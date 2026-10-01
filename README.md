@@ -127,8 +127,8 @@ Alur pada program ini dimulai dengan user yang dapat menginput angka dari 1-4. a
 
 | Tampilkan Utama | Input Laptop | Input PC |
 | :---: | :---: | :---: |
-| <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilkan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilkan Utama.png" width="100%"> |
+| <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Input Laptop.png" width="100%"> | <img src="cpp/Dokumentasi/Input PC.png" width="100%"> |
 | **Opsi Tampilan Data** | **List data laptop Sebelum Input** | **List data PC Sebelum Input** |
-| <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> |
+| <img src="cpp/Dokumentasi/Opsi Tampilan Data.png" width="100%"> | <img src="cpp/Dokumentasi/List sebelum laptop.png" width="100%"> | <img src="cpp/Dokumentasi/List sebelum PC.png" width="100%"> |
 | **List data laptop sesudah Input** | **List data PC sesudah Input** | **Tampilan Keluar Program** |
-| <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan Utama.png" width="100%"> |
+| <img src="cpp/Dokumentasi/List laptop.png" width="100%"> | <img src="cpp/Dokumentasi/List PC.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan keluar program.png" width="100%"> |
