@@ -1,5 +1,5 @@
 # Janji
-Saya Nezhad Ahmad Maliki dengan NIM 2503880 mengerjakan Tugas Praktikum 2 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+Saya Nezhad Ahmad Maliki dengan NIM 2503880 mengerjakan Tugas Praktikum 3 pada Mata Kuliah Desain dan Pemrograman Berorientasi Objek (DPBO) untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 # Struktur File
 
@@ -123,7 +123,7 @@ Alur pada program ini dimulai dengan user yang dapat menginput angka dari 1-4. a
 
 # Dokumentasi
 
-## C++, JAVA, PYTHON
+## C++
 
 | Tampilkan Utama | Input Laptop | Input PC |
 | :---: | :---: | :---: |
@@ -132,3 +132,23 @@ Alur pada program ini dimulai dengan user yang dapat menginput angka dari 1-4. a
 | <img src="cpp/Dokumentasi/Opsi Tampilan Data.png" width="100%"> | <img src="cpp/Dokumentasi/List sebelum laptop.png" width="100%"> | <img src="cpp/Dokumentasi/List sebelum PC.png" width="100%"> |
 | **List data laptop sesudah Input** | **List data PC sesudah Input** | **Tampilan Keluar Program** |
 | <img src="cpp/Dokumentasi/List laptop.png" width="100%"> | <img src="cpp/Dokumentasi/List PC.png" width="100%"> | <img src="cpp/Dokumentasi/Tampilan keluar program.png" width="100%"> |
+
+## Python
+
+| Tampilkan Utama | Input Laptop | Input PC |
+| :---: | :---: | :---: |
+| <img src="python/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="python/Dokumentasi/Input Laptop.png" width="100%"> | <img src="python/Dokumentasi/Input PC.png" width="100%"> |
+| **Opsi Tampilan Data** | **List data laptop Sebelum Input** | **List data PC Sebelum Input** |
+| <img src="python/Dokumentasi/Opsi Tampilan Data.png" width="100%"> | <img src="python/Dokumentasi/List sebelum laptop.png" width="100%"> | <img src="python/Dokumentasi/List sebelum PC.png" width="100%"> |
+| **List data laptop sesudah Input** | **List data PC sesudah Input** | **Tampilan Keluar Program** |
+| <img src="python/Dokumentasi/List laptop.png" width="100%"> | <img src="python/Dokumentasi/List PC.png" width="100%"> | <img src="python/Dokumentasi/Tampilan keluar program.png" width="100%"> |
+
+## java
+
+| Tampilkan Utama | Input Laptop | Input PC |
+| :---: | :---: | :---: |
+| <img src="java/Dokumentasi/Tampilan Utama.png" width="100%"> | <img src="java/Dokumentasi/Input Laptop.png" width="100%"> | <img src="java/Dokumentasi/Input PC.png" width="100%"> |
+| **Opsi Tampilan Data** | **List data laptop Sebelum Input** | **List data PC Sebelum Input** |
+| <img src="java/Dokumentasi/Opsi Tampilan Data.png" width="100%"> | <img src="java/Dokumentasi/List sebelum laptop.png" width="100%"> | <img src="java/Dokumentasi/List sebelum PC.png" width="100%"> |
+| **List data laptop sesudah Input** | **List data PC sesudah Input** | **Tampilan Keluar Program** |
+| <img src="java/Dokumentasi/List laptop.png" width="100%"> | <img src="java/Dokumentasi/List PC.png" width="100%"> | <img src="java/Dokumentasi/Tampilan keluar program.png" width="100%"> |
